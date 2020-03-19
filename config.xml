@@ -4,8 +4,8 @@
     <description>
         JossyMall mobile app. Sell courses online, acquire new skills and certifications.
     </description>
-    <author email="nioperas06@gmail.com" href="http://dusthq.com">
-        DustHQ
+    <author email="support@jossymall.com" href="http://jossymall.com">
+        JossyMall
     </author>
     <content src="index.html" />
     <access origin="*" />
