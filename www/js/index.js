@@ -58,7 +58,7 @@ function onOffline() {
 }
 
 function openBrowser() {
-   var url = 'https://jossymall.com/';
+   var url = 'https://league.jossymall.com/';
    var target = '_blank';
    var options = "location=no,toolbar=no"
    var ref = cordova.InAppBrowser.open(url, target, options);
