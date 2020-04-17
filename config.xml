@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.example.hello" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>League1</name>
+    <name>JossyMall</name>
     <description>
-        League1 push yourself to the limits.
+        Push your sales beyond the limits.
     </description>
-    <author email="support@jossymall.com" href="http://league.jossymall.com">
+    <author email="support@jossymall.com" href="http://jossymall.com">
         JossyMall
     </author>
     <icon src="icon.png" width="180" height="180" />
