@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.example.hello" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>JossyMall Funnels</name>
+    <name>Eagleeyes24</name>
     <description>
         Push your sales beyond the limits.
     </description>
-    <author email="support@jossymall.com" href="http://jossymall.com">
-        JossyMall
+    <author email="support@eagleeyes24.com" href="http://eagleeyes24.com">
+        Eagleeyes24
     </author>
     <icon src="icon.png" width="180" height="180" />
     <content src="index.html" />
